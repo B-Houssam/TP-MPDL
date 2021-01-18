@@ -1,0 +1,15 @@
+
+Class: javax.imageio.ImageIO Package: java.lang Methode: read line: 1308 AT: Sun Jan 17 21:48:27 CET 2021 message: Can't read input file!
+Class: P2 Package: java.lang Methode: main line: 26 AT: Sun Jan 17 21:54:15 CET 2021 message: class java.io.File cannot be cast to class javax.swing.Icon (java.io.File is in module java.base of loader 'bootstrap'; javax.swing.Icon is in module java.desktop of loader 'bootstrap')
+Class: javax.swing.JLabel Package: java.lang Methode: checkHorizontalKey line: 594 AT: Sun Jan 17 21:59:27 CET 2021 message: horizontalAlignment
+Class: javax.swing.JLabel Package: java.lang Methode: checkHorizontalKey line: 594 AT: Sun Jan 17 22:08:44 CET 2021 message: horizontalAlignment
+Class: javax.swing.JLabel Package: java.lang Methode: checkHorizontalKey line: 594 AT: Sun Jan 17 22:08:49 CET 2021 message: horizontalAlignment
+Class: javax.swing.JLabel Package: java.lang Methode: checkHorizontalKey line: 594 AT: Sun Jan 17 22:09:02 CET 2021 message: horizontalAlignment
+Class: javax.swing.JLabel Package: java.lang Methode: checkHorizontalKey line: 594 AT: Sun Jan 17 22:09:31 CET 2021 message: horizontalAlignment
+Class: javax.swing.JLabel Package: java.lang Methode: checkHorizontalKey line: 594 AT: Sun Jan 17 22:11:51 CET 2021 message: horizontalTextPosition
+Class: javax.swing.JLabel Package: java.lang Methode: checkHorizontalKey line: 594 AT: Sun Jan 17 22:15:24 CET 2021 message: horizontalAlignment
+Class: javax.swing.ImageIcon Package: java.lang Methode: <init> line: 240 AT: Mon Jan 18 19:30:26 CET 2021 message: Cannot invoke "java.awt.Image.getProperty(String, java.awt.image.ImageObserver)" because "image" is null
+Class: javax.imageio.ImageIO Package: java.lang Methode: read line: 1308 AT: Mon Jan 18 19:30:44 CET 2021 message: Can't read input file!
+Class: javax.swing.ImageIcon Package: java.lang Methode: <init> line: 240 AT: Mon Jan 18 19:31:51 CET 2021 message: Cannot invoke "java.awt.Image.getProperty(String, java.awt.image.ImageObserver)" because "image" is null
+Class: javax.swing.ImageIcon Package: java.lang Methode: <init> line: 240 AT: Mon Jan 18 19:33:28 CET 2021 message: Cannot invoke "java.awt.Image.getProperty(String, java.awt.image.ImageObserver)" because "image" is null
+Class: javax.swing.ImageIcon Package: java.lang Methode: <init> line: 240 AT: Mon Jan 18 19:33:30 CET 2021 message: Cannot invoke "java.awt.Image.getProperty(String, java.awt.image.ImageObserver)" because "image" is null

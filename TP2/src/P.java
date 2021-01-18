@@ -57,7 +57,7 @@ public class P extends JFrame{
 			s.save(e);
 		}
 	}
-	
+	//3 seperate or 1 custom action listner wuth the button as parameter
 	static class Action1 implements ActionListener {   
 		public void actionPerformed (ActionEvent e) {    
 			if (b2.isEnabled() == true) {
