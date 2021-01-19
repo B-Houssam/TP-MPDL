@@ -13,3 +13,5 @@ Class: javax.imageio.ImageIO Package: java.lang Methode: read line: 1308 AT: Mon
 Class: javax.swing.ImageIcon Package: java.lang Methode: <init> line: 240 AT: Mon Jan 18 19:31:51 CET 2021 message: Cannot invoke "java.awt.Image.getProperty(String, java.awt.image.ImageObserver)" because "image" is null
 Class: javax.swing.ImageIcon Package: java.lang Methode: <init> line: 240 AT: Mon Jan 18 19:33:28 CET 2021 message: Cannot invoke "java.awt.Image.getProperty(String, java.awt.image.ImageObserver)" because "image" is null
 Class: javax.swing.ImageIcon Package: java.lang Methode: <init> line: 240 AT: Mon Jan 18 19:33:30 CET 2021 message: Cannot invoke "java.awt.Image.getProperty(String, java.awt.image.ImageObserver)" because "image" is null
+Class: java.awt.Container Package: java.lang Methode: addImpl line: 1111 AT: Tue Jan 19 15:23:05 CET 2021 message: illegal component position
+Class: P4 Package: java.lang Methode: main line: 159 AT: Tue Jan 19 16:35:55 CET 2021 message: class javax.swing.JRadioButton cannot be cast to class javax.swing.ButtonModel (javax.swing.JRadioButton and javax.swing.ButtonModel are in module java.desktop of loader 'bootstrap')

@@ -44,8 +44,8 @@ public class P3 {
 				@Override
 				public void actionPerformed(ActionEvent arg0) {
 					// TODO Auto-generated method stub
-					String ObjButtons[] = {"Yes","No"};
-					int prompRes = JOptionPane.showOptionDialog(null,"Are you sure you want to exit?","Online Examination System",JOptionPane.DEFAULT_OPTION,JOptionPane.WARNING_MESSAGE, null, ObjButtons,ObjButtons[1]);
+					String ObjButtons[] = {"Oui","Non"};
+					int prompRes = JOptionPane.showOptionDialog(null,"Voulez vous vraiment quitter ?","Fenetre de dialogue",JOptionPane.DEFAULT_OPTION,JOptionPane.WARNING_MESSAGE, null, ObjButtons,ObjButtons[1]);
 					if (prompRes == JOptionPane.YES_OPTION) {
 						System.exit(0);
 					} 					
@@ -58,7 +58,7 @@ public class P3 {
 			
 			panel.add(menuBar, BorderLayout.NORTH);
 			
-			frame.setSize(350, 350); 
+			frame.setSize(300,150); 
 			frame.add(panel);	
 			frame.setVisible(true);
 			
